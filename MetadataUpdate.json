@@ -1,0 +1,47 @@
+{
+  "name": "MTO #29v2",
+  "symbol": "MTO",
+  "description": "From me to you. Let this be a reminder that in the darkest Bear Markets, when we hit rock bottom, the only way is up!",
+  "seller_fee_basis_points": 800,
+  "image": "https://raw.githubusercontent.com/OGBulls/Test-1/main/29v2.jpeg",
+  "external_url": "",
+  "collection": {
+    "name": "More Than Okay",
+    "family": "LaunchMyNFT"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Coral"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Black Suit"
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "value": 36,
+      "display_type": "number",
+      "max_value": 690
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/OGBulls/Test-1/main/29v2.jpeg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2Acqaa7G5cAd2nYZmAC1yqwZ4WGFESFG5JF77WM3gZbA",
+        "share": 100
+      }
+    ]
+  }
+}
